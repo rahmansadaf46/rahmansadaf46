@@ -1,10 +1,13 @@
-<h1 align="center">
-  👋 Hi, I'm Md. Sadaf Rahman
-</h1>
 
-<p align="center">
+
+<div align="center">
+  <h1 align="center">
+  👋 Hi, I'm Md. Sadaf Rahman
+  </h1>
+  <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Engineer;DevOps+Enthusiast;UI%2FUX+Explorer;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
+</div>
 
 🎯 **Full Stack Engineer | DevOps Enthusiast | UI/UX Explorer**  
 📍 Based in Bangladesh | 🌐 [sadafrahman.netlify.app](https://sadafrahman.netlify.app)
@@ -58,12 +61,6 @@ I take pride in writing clean, well-documented code and continually seek to impr
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahmansadaf46&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmansadaf46&layout=compact&theme=radical" />
 </p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/rahmansadaf46/rahmansadaf46/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
