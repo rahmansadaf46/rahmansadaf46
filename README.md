@@ -57,17 +57,13 @@ I'm a passionate **Full Stack Engineer** with over **4 years of experience** in 
 
 #### 👨‍💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express" />
 </p>
 
-#### ⚛️ Frontend Libraries & Frameworks
+#### 🧩 State & UI Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,sass,tailwind,materialui,bootstrap" />
-</p>
-
-#### 🖥️ Backend & Runtime
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=redux,bootstrap,tailwind,materialui,sass" />
 </p>
 
 #### 🗄️ Databases
@@ -75,11 +71,15 @@ I'm a passionate **Full Stack Engineer** with over **4 years of experience** in 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-#### 🔧 Tools & Platforms
+#### 🛠️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,linux,firebase" />
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,postman,firebase" />
 </p>
 
+#### 🌐 Markup & Styling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
 ---
 
