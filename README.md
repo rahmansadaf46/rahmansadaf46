@@ -17,9 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Engineer** with over **4 years of experience** in software development.  
-I enjoy building efficient, user-friendly, and scalable web applications.  
-I focus on frontend architecture, API integration, UI/UX improvement, and automating workflows.
+I'm a passionate **Full Stack Engineer** with over **4 years of experience** in software development. I enjoy building efficient, user-friendly, and scalable web applications. I focus on frontend architecture, API integration, UI/UX improvement, and automating workflows.
 
 ✨ I take pride in writing clean, well-documented code.  
 💡 I’m always learning and exploring new technologies to improve my skills.
