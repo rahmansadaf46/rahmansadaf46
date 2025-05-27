@@ -24,19 +24,15 @@ I'm a passionate **Full Stack Engineer** with over **4 years of experience** in 
 
 ---
 
-### 📈 GitHub Stats & Trophies
-
+<!-- GitHub Stats -->
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahmansadaf46&theme=gruvbox&margin-w=10&no-bg=true" alt="GitHub Trophies"/>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rahmansadaf46&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rahmansadaf46&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmansadaf46&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmansadaf46&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmansadaf46&theme=radical" width="96%" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=rahmansadaf46&theme=github" alt="GitHub Activity Graph" />
+  <img width="385px" src="https://github-readme-streak-stats-eight.vercel.app/?user=rahmansadaf46&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 ---
