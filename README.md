@@ -42,7 +42,7 @@ I'm a passionate **Full Stack Engineer** with over **4 years of experience** in 
 - 📫 Email: **rahmansadaf46@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/file/d/1wRLMUQKQbEo2YOCOolVZ3-Mle7kTWHAk/view?usp=drive_link)
 
-<p align="left">
+<p align="center">
     <a href="https://fb.com/syloxlr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
