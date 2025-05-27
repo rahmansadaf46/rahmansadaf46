@@ -55,9 +55,31 @@ I'm a passionate **Full Stack Engineer** with over **4 years of experience** in 
 
 ### 🛠️ Tech Stack
 
+#### 👨‍💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,php,nodejs,express,mongodb,mysql,postgres,docker,git,redux,html,css,sass,tailwind,materialui,bootstrap,vscode,linux,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 </p>
+
+#### ⚛️ Frontend Libraries & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,sass,tailwind,materialui,bootstrap" />
+</p>
+
+#### 🖥️ Backend & Runtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+#### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,linux,firebase" />
+</p>
+
 
 ---
 
