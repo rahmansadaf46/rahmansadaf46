@@ -43,6 +43,9 @@ I'm a passionate **Full Stack Engineer** with over **4 years of experience** in 
 - 📄 [View My Resume](https://drive.google.com/file/d/1wRLMUQKQbEo2YOCOolVZ3-Mle7kTWHAk/view?usp=drive_link)
 
 <p align="left">
+    <a href="https://fb.com/syloxlr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/md-sadaf-rahman-3695a21b1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" />
   </a>
