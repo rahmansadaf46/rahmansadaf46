@@ -4,7 +4,7 @@
 
 <p align="center">
   🎯 <strong>Full Stack Engineer | DevOps Enthusiast | UI/UX Explorer</strong><br>
-  📍 Based in Bangladesh &nbsp;|&nbsp; 🌐 <a href="https://sadafrahman.netlify.app" target="_blank">sadafrahman.netlify.app</a>
+  📍 Based in Bangladesh &nbsp;|&nbsp; 🌐 <a href="https://sadafrahman.com" target="_blank">sadafrahman.com</a>
 </p>
 
 ---
